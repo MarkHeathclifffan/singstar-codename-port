@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="100" y="300" flipx="true" camx="150">
+	<anim name="idle" anim="solid idle" x="3" y="20"/>
+	<anim name="idle-loop" anim="solid idle" x="3" y="20" loop="true" indices="9,10,11,12"/>
+	<anim name="singUP" anim="solid chris up note" x="-15" y="88"/>
+	<anim name="singDOWN" anim="solid chris down note" x="34" y="5"/>
+	<anim name="singLEFT" anim="solid chris left note" x="22" y="16"/>
+	<anim name="singRIGHT" anim="solid chris right note" x="3" y="22"/>
+	<anim name="singDOWNmiss" anim="solid down miss" x="29" y="8"/>
+	<anim name="singUPmiss" anim="solid up miss" x="-7" y="89"/>
+	<anim name="singRIGHTmiss" anim="solidmissrighth" x="5" y="60"/>
+	<anim name="singLEFTmiss" anim="solidmissleft" x="24" y="54"/>
+	<anim name="hey" anim="solid hey" x="7" y="16"/>
+	<anim name="transition" anim="solid guitar" x="-50" y="26"/>
+	<anim name="no" anim="solid oh no you dont" y="23"/>
+</character>

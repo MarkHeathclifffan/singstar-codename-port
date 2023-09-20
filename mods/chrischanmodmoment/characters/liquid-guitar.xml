@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character x="-70" y="-50" camx="-860" camy="-79" holdTime="6.1">
+	<anim name="idle" anim="liquid chris idle guitar" x="-2"/>
+	<anim name="singLEFT" anim="liquid chris guitar left" x="101" y="-3"/>
+	<anim name="singDOWN" anim="liquid chris down guitar" x="-16" y="-32"/>
+	<anim name="singUP" anim="liquid chris up guitar" x="-14" y="20"/>
+	<anim name="singRIGHT" anim="liquid chris right guitar" x="-39" y="1"/>
+	<anim name="hey" anim="liquid chris hey guitar" x="4" y="-5"/>
+	<anim name="singDOWN-alt" anim="liquid chris post solo" x="5" y="8"/>
+	<anim name="shocked" anim="liquid chris shocked" x="22" y="137"/>
+	<anim name="transition" anim="liquid back to mic" x="1760" y="99"/>
+</character>
